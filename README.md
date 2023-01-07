@@ -1,2 +1,2 @@
 # Test-Repo
-<a href="text.txt" download>Click to Download</a>
+<a id="raw-url" href="https://raw.githubusercontent.com/coffeefrappe/Test-Repo/main/test.txt" download>Click to Download</a>
